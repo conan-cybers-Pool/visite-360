@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" apprev="18080" appversion="6.1.13">
+  <panorama id="node4">
+    <input height="1520" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata copyright="" longitude="" description="" nodeid="node4" source="" tags="PHOTOS360" customnodeid="" author="" latitude="" info="" datetime="29/12/2024 07:42" comment="" title="Salon" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" height="20" borderalpha="1" width="180" backgroundalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Vesr la cuisine" description="" skinid="ht_node" pan="-310.84" target="30.2/7.0/126.6" url="{node5}" title="vers cuisine" tilt="10.64"/>
+      <hotspot id="salon vers terrasse" description="" skinid="ht_node" pan="-256.23" target="9.1/-1.7/137.3" url="{node6}" title="vers terasse" tilt="-9.43"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" softedge="0" zoomafterinfov="90" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" sensitivity="8" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1520" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata copyright="" longitude="" description="" nodeid="node5" source="" tags="Exports" customnodeid="" author="" latitude="" info="" datetime="21/12/2024 11:37" comment="" title="cuisine" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" height="20" borderalpha="1" width="180" backgroundalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="cuisin vers salon" description="" skinid="ht_node" pan="-146.93" target="-120.2/-13.9/126.6" url="{node4}" title="vers salon" tilt="-27.71"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" softedge="0" zoomafterinfov="90" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" sensitivity="8" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1520" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" width="1520" levelingpitch="0" leveltilesize="510" overlap="1">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata copyright="" longitude="" description="" nodeid="node6" source="" tags="Exports" customnodeid="" author="" latitude="" info="" datetime="21/12/2024 11:37" comment="" title="terrasse" heading="0"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" backgroundcolor="0xffffff" height="20" borderalpha="1" width="180" backgroundalpha="1" textalpha="1" border="1" borderradius="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="terrasse vers salon" description="" skinid="ht_node" pan="-182.59" target="-81.4/-17.8/100.0" url="{node4}" title="vers salon 2" tilt="-30.21"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomin="0" zoomoutpause="1" zoomspeed="2" type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" softedge="0" zoomafterinfov="90" zoomout="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" lockedkeyboard="0" invertwheel="0" hideabout="0" lockedmouse="0" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0" contextvr="1" sensitivity="8" invertcontrol="1" speedwheel="1" dblclickfullscreen="0" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" longitude="" description="" nodeid="master" source="" tags="" customnodeid="" author="" latitude="" info="" datetime="" comment="" title="" heading="0"/>
+  </masternode>
+</tour>
